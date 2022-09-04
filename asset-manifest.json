@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.7cc67c0d.css",
-    "main.js": "/static/js/main.34f7b636.js",
+    "main.js": "/static/js/main.d130c3e3.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/capaxcapa-project.PNG": "/static/media/capaxcapa-project.2f1d5dd78877899e7828.PNG",
     "index.html": "/index.html",
     "main.7cc67c0d.css.map": "/static/css/main.7cc67c0d.css.map",
-    "main.34f7b636.js.map": "/static/js/main.34f7b636.js.map",
+    "main.d130c3e3.js.map": "/static/js/main.d130c3e3.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cc67c0d.css",
-    "static/js/main.34f7b636.js"
+    "static/js/main.d130c3e3.js"
   ]
 }

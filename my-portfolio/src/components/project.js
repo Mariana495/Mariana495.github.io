@@ -8,7 +8,7 @@ function Project(props) {
             <div> 
                 <h2> {props.name} </h2> <br/>
                 <p class = "texto-izq"> {props.text} </p>
-                <Button onClick={event => window.location.href='https://www.w3schools.com/css/css_positioning.asp'}/>
+                <Button onClick={event => window.location.href='{props.link}'}/>
 
             </div>
             <img class="img-project" src={imageProject}/>

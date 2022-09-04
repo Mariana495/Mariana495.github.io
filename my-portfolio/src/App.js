@@ -8,7 +8,8 @@ function App() {
       <div className="App">
         <Header />
         <div className='div-principal'>
-          <Project name = "Website Capa x Capa" text = "Front end development. Use of React, HTML and CSS. This project was created for a social initiative called Capa x Capa, we are still working on it!" />
+          <Project name = "Website Capa x Capa" 
+            text = "Front end development. Use of React, HTML and CSS. This project was created for a social initiative called Capa x Capa, we are still working on it!" />
         </div>
       </div>
     </body>

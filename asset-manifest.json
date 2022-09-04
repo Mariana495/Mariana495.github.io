@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7cc67c0d.css",
-    "main.js": "/static/js/main.d130c3e3.js",
+    "main.css": "/static/css/main.fbc7d6f2.css",
+    "main.js": "/static/js/main.f9f8e5e2.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/capaxcapa-project.PNG": "/static/media/capaxcapa-project.2f1d5dd78877899e7828.PNG",
+    "static/media/syntax-highlighter-project.PNG": "/static/media/syntax-highlighter-project.3e457241b426bac63b12.PNG",
+    "static/media/gta-project.png": "/static/media/gta-project.7bf28a7f0888d0e54699.png",
     "index.html": "/index.html",
-    "main.7cc67c0d.css.map": "/static/css/main.7cc67c0d.css.map",
-    "main.d130c3e3.js.map": "/static/js/main.d130c3e3.js.map",
+    "main.fbc7d6f2.css.map": "/static/css/main.fbc7d6f2.css.map",
+    "main.f9f8e5e2.js.map": "/static/js/main.f9f8e5e2.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cc67c0d.css",
-    "static/js/main.d130c3e3.js"
+    "static/css/main.fbc7d6f2.css",
+    "static/js/main.f9f8e5e2.js"
   ]
 }

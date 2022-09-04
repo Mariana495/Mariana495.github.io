@@ -1,24 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from './components/header.js'
+import Project from './components/project.js'
+import './styles.css'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <body style = {{backgroundColor: "#D3D0CB"}}>
+      <div className="App">
+        <Header />
+        <Project name = "Website Capa x Capa" text = "Front end development. Use of React, HTML and CSS. This project isn't finished yet!" />
+      </div>
+    </body>
   );
 }
 

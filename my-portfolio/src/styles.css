@@ -1,5 +1,6 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #D3D0CB;
 }
 
 h1{
@@ -22,6 +23,7 @@ h2{
     top: 0;
     left: 0;
     color: white;
+    margin-bottom: 2vw;
 }
 
 .texto-cent{
@@ -29,16 +31,40 @@ h2{
     justify-content: center;
 }
 
+.img-project{
+    height: auto;
+    width: 40vw;
+}
+
 .texto-izq{
     margin-left: 2vw;
 }
 
-.div-principal{
+.div-project{
     width: 80vw;
-    margin: auto;
+    margin-top: 2vw;
     background-color: white;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 11%);
+}
+
+.div-principal{
     position: fixed;
     top: 20vw;
+    width: 80vw;
+    margin: auto;
+    background-color: #D3D0CB;
     left: 10vw;
 }
 
+.button{
+    width: 10vw;
+    height: 3vw;
+    border-radius: 1.6vw;
+    border-color: #6E8898;
+    background-color: #6E8898;
+    margin-left: 2vw;
+}
